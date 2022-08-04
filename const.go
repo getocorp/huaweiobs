@@ -274,6 +274,7 @@ var (
 		"x-image-save-bucket":          true,
 		"x-image-save-object":          true,
 		"ignore-sign-in-query":         true,
+		"attname":                      true,
 	}
 
 	mimeTypes = map[string]string{
